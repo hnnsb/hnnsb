@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently studying business informatics with a focus on data science and process science.
+- 🔭 I’m a Software Developer in the public sector.
 <!--
 **hnnsb/hnnsb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
